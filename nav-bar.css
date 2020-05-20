@@ -17,15 +17,14 @@
 	color: #6E6D7A;
 	
 }
-ul > li {
+.nav-dropdown-item {
 	height: 100%;
 	color: #DDD;
 	padding-right: 20px;
 	display: block;
-	background-color: #DDD;	
 }
 
-ul {
+.links-container {
 list-style-type: none;
 display: flex;
 justify-content: center;
